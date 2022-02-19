@@ -1,0 +1,14 @@
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\bin\Debug\netcoreapp3.1\SwapToNumber.exe
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\bin\Debug\netcoreapp3.1\SwapToNumber.deps.json
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\bin\Debug\netcoreapp3.1\SwapToNumber.runtimeconfig.json
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\bin\Debug\netcoreapp3.1\SwapToNumber.runtimeconfig.dev.json
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\bin\Debug\netcoreapp3.1\SwapToNumber.dll
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\bin\Debug\netcoreapp3.1\SwapToNumber.pdb
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\obj\Debug\netcoreapp3.1\SwapToNumber.csproj.AssemblyReference.cache
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\obj\Debug\netcoreapp3.1\SwapToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\obj\Debug\netcoreapp3.1\SwapToNumber.AssemblyInfoInputs.cache
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\obj\Debug\netcoreapp3.1\SwapToNumber.AssemblyInfo.cs
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\obj\Debug\netcoreapp3.1\SwapToNumber.csproj.CoreCompileInputs.cache
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\obj\Debug\netcoreapp3.1\SwapToNumber.dll
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\obj\Debug\netcoreapp3.1\SwapToNumber.pdb
+C:\Users\veerm\source\repos\SwapToNumber\SwapToNumber\obj\Debug\netcoreapp3.1\SwapToNumber.genruntimeconfig.cache
