@@ -1,0 +1,14 @@
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\obj\Debug\netcoreapp3.1\AdditionToNumber.csproj.AssemblyReference.cache
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\obj\Debug\netcoreapp3.1\AdditionToNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\obj\Debug\netcoreapp3.1\AdditionToNumber.AssemblyInfoInputs.cache
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\obj\Debug\netcoreapp3.1\AdditionToNumber.AssemblyInfo.cs
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\obj\Debug\netcoreapp3.1\AdditionToNumber.csproj.CoreCompileInputs.cache
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\bin\Debug\netcoreapp3.1\AdditionToNumber.exe
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\bin\Debug\netcoreapp3.1\AdditionToNumber.deps.json
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\bin\Debug\netcoreapp3.1\AdditionToNumber.runtimeconfig.json
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\bin\Debug\netcoreapp3.1\AdditionToNumber.runtimeconfig.dev.json
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\bin\Debug\netcoreapp3.1\AdditionToNumber.dll
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\bin\Debug\netcoreapp3.1\AdditionToNumber.pdb
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\obj\Debug\netcoreapp3.1\AdditionToNumber.dll
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\obj\Debug\netcoreapp3.1\AdditionToNumber.pdb
+C:\Users\veerm\source\repos\AdditionToNumber\AdditionToNumber\obj\Debug\netcoreapp3.1\AdditionToNumber.genruntimeconfig.cache
