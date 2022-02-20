@@ -1,0 +1,14 @@
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\bin\Debug\netcoreapp3.1\Store_Number_In_Array.exe
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\bin\Debug\netcoreapp3.1\Store_Number_In_Array.deps.json
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\bin\Debug\netcoreapp3.1\Store_Number_In_Array.runtimeconfig.json
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\bin\Debug\netcoreapp3.1\Store_Number_In_Array.runtimeconfig.dev.json
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\bin\Debug\netcoreapp3.1\Store_Number_In_Array.dll
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\bin\Debug\netcoreapp3.1\Store_Number_In_Array.pdb
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\obj\Debug\netcoreapp3.1\Store_Number_In_Array.csproj.AssemblyReference.cache
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\obj\Debug\netcoreapp3.1\Store_Number_In_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\obj\Debug\netcoreapp3.1\Store_Number_In_Array.AssemblyInfoInputs.cache
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\obj\Debug\netcoreapp3.1\Store_Number_In_Array.AssemblyInfo.cs
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\obj\Debug\netcoreapp3.1\Store_Number_In_Array.csproj.CoreCompileInputs.cache
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\obj\Debug\netcoreapp3.1\Store_Number_In_Array.dll
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\obj\Debug\netcoreapp3.1\Store_Number_In_Array.pdb
+C:\Users\veerm\source\repos\Store_Number_In_Array\Store_Number_In_Array\obj\Debug\netcoreapp3.1\Store_Number_In_Array.genruntimeconfig.cache
