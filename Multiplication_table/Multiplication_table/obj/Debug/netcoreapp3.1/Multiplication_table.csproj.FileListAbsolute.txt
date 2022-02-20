@@ -1,0 +1,14 @@
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\bin\Debug\netcoreapp3.1\Multiplication_table.exe
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\bin\Debug\netcoreapp3.1\Multiplication_table.deps.json
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\bin\Debug\netcoreapp3.1\Multiplication_table.runtimeconfig.json
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\bin\Debug\netcoreapp3.1\Multiplication_table.runtimeconfig.dev.json
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\bin\Debug\netcoreapp3.1\Multiplication_table.dll
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\bin\Debug\netcoreapp3.1\Multiplication_table.pdb
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\obj\Debug\netcoreapp3.1\Multiplication_table.csproj.AssemblyReference.cache
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\obj\Debug\netcoreapp3.1\Multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\obj\Debug\netcoreapp3.1\Multiplication_table.AssemblyInfoInputs.cache
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\obj\Debug\netcoreapp3.1\Multiplication_table.AssemblyInfo.cs
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\obj\Debug\netcoreapp3.1\Multiplication_table.csproj.CoreCompileInputs.cache
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\obj\Debug\netcoreapp3.1\Multiplication_table.dll
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\obj\Debug\netcoreapp3.1\Multiplication_table.pdb
+C:\Users\veerm\source\repos\Multiplication_table\Multiplication_table\obj\Debug\netcoreapp3.1\Multiplication_table.genruntimeconfig.cache
