@@ -1,0 +1,14 @@
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\bin\Debug\netcoreapp3.1\10Natural_Number.exe
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\bin\Debug\netcoreapp3.1\10Natural_Number.deps.json
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\bin\Debug\netcoreapp3.1\10Natural_Number.runtimeconfig.json
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\bin\Debug\netcoreapp3.1\10Natural_Number.runtimeconfig.dev.json
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\bin\Debug\netcoreapp3.1\10Natural_Number.dll
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\bin\Debug\netcoreapp3.1\10Natural_Number.pdb
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\obj\Debug\netcoreapp3.1\10Natural_Number.csproj.AssemblyReference.cache
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\obj\Debug\netcoreapp3.1\10Natural_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\obj\Debug\netcoreapp3.1\10Natural_Number.AssemblyInfoInputs.cache
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\obj\Debug\netcoreapp3.1\10Natural_Number.AssemblyInfo.cs
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\obj\Debug\netcoreapp3.1\10Natural_Number.csproj.CoreCompileInputs.cache
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\obj\Debug\netcoreapp3.1\10Natural_Number.dll
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\obj\Debug\netcoreapp3.1\10Natural_Number.pdb
+C:\Users\veerm\source\repos\10Natural_Number\10Natural_Number\obj\Debug\netcoreapp3.1\10Natural_Number.genruntimeconfig.cache
