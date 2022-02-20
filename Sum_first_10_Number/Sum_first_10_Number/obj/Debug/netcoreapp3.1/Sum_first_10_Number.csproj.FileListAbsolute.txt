@@ -1,0 +1,14 @@
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\bin\Debug\netcoreapp3.1\Sum_first_10_Number.exe
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\bin\Debug\netcoreapp3.1\Sum_first_10_Number.deps.json
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\bin\Debug\netcoreapp3.1\Sum_first_10_Number.runtimeconfig.json
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\bin\Debug\netcoreapp3.1\Sum_first_10_Number.runtimeconfig.dev.json
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\bin\Debug\netcoreapp3.1\Sum_first_10_Number.dll
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\bin\Debug\netcoreapp3.1\Sum_first_10_Number.pdb
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\obj\Debug\netcoreapp3.1\Sum_first_10_Number.csproj.AssemblyReference.cache
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\obj\Debug\netcoreapp3.1\Sum_first_10_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\obj\Debug\netcoreapp3.1\Sum_first_10_Number.AssemblyInfoInputs.cache
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\obj\Debug\netcoreapp3.1\Sum_first_10_Number.AssemblyInfo.cs
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\obj\Debug\netcoreapp3.1\Sum_first_10_Number.csproj.CoreCompileInputs.cache
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\obj\Debug\netcoreapp3.1\Sum_first_10_Number.dll
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\obj\Debug\netcoreapp3.1\Sum_first_10_Number.pdb
+C:\Users\veerm\source\repos\Sum_first_10_Number\Sum_first_10_Number\obj\Debug\netcoreapp3.1\Sum_first_10_Number.genruntimeconfig.cache
