@@ -1,0 +1,14 @@
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\bin\Debug\netcoreapp3.1\ConverStringInLowerCase.exe
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\bin\Debug\netcoreapp3.1\ConverStringInLowerCase.deps.json
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\bin\Debug\netcoreapp3.1\ConverStringInLowerCase.runtimeconfig.json
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\bin\Debug\netcoreapp3.1\ConverStringInLowerCase.runtimeconfig.dev.json
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\bin\Debug\netcoreapp3.1\ConverStringInLowerCase.dll
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\bin\Debug\netcoreapp3.1\ConverStringInLowerCase.pdb
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\obj\Debug\netcoreapp3.1\ConverStringInLowerCase.csproj.AssemblyReference.cache
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\obj\Debug\netcoreapp3.1\ConverStringInLowerCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\obj\Debug\netcoreapp3.1\ConverStringInLowerCase.AssemblyInfoInputs.cache
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\obj\Debug\netcoreapp3.1\ConverStringInLowerCase.AssemblyInfo.cs
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\obj\Debug\netcoreapp3.1\ConverStringInLowerCase.csproj.CoreCompileInputs.cache
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\obj\Debug\netcoreapp3.1\ConverStringInLowerCase.dll
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\obj\Debug\netcoreapp3.1\ConverStringInLowerCase.pdb
+C:\Users\veerm\source\repos\ConverStringInLowerCase\ConverStringInLowerCase\obj\Debug\netcoreapp3.1\ConverStringInLowerCase.genruntimeconfig.cache
