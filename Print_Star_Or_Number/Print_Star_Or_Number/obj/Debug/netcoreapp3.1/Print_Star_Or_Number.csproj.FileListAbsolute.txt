@@ -1,0 +1,14 @@
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\bin\Debug\netcoreapp3.1\Print_Star_Or_Number.exe
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\bin\Debug\netcoreapp3.1\Print_Star_Or_Number.deps.json
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\bin\Debug\netcoreapp3.1\Print_Star_Or_Number.runtimeconfig.json
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\bin\Debug\netcoreapp3.1\Print_Star_Or_Number.runtimeconfig.dev.json
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\bin\Debug\netcoreapp3.1\Print_Star_Or_Number.dll
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\bin\Debug\netcoreapp3.1\Print_Star_Or_Number.pdb
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\obj\Debug\netcoreapp3.1\Print_Star_Or_Number.csproj.AssemblyReference.cache
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\obj\Debug\netcoreapp3.1\Print_Star_Or_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\obj\Debug\netcoreapp3.1\Print_Star_Or_Number.AssemblyInfoInputs.cache
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\obj\Debug\netcoreapp3.1\Print_Star_Or_Number.AssemblyInfo.cs
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\obj\Debug\netcoreapp3.1\Print_Star_Or_Number.csproj.CoreCompileInputs.cache
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\obj\Debug\netcoreapp3.1\Print_Star_Or_Number.dll
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\obj\Debug\netcoreapp3.1\Print_Star_Or_Number.pdb
+C:\Users\veerm\source\repos\Print_Star_Or_Number\Print_Star_Or_Number\obj\Debug\netcoreapp3.1\Print_Star_Or_Number.genruntimeconfig.cache
